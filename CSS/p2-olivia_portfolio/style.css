@@ -1,0 +1,29 @@
+/* Codecadamy/CSS/Selectors and Visual Rules/Project - Olivia Woodruff Portfolio */
+
+body {
+  font-family: Georgia;
+  background-image: url(https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+}
+
+img {
+  border-radius: 10px;
+  border: 2px solid #fff;
+}
+
+.header {
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.about-me {
+  font-size: 20px;
+  opacity: .5;
+}
+
+.title {
+  font-weight: bold;
+}
+
+h1 {
+  color: azure;
+}
