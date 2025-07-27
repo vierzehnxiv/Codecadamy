@@ -1,0 +1,39 @@
+/* Codecadamy/Developing Websites Locally/Developing with CSS/Off-Platform Project: Dasmoto's Arts & Crafts */
+
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    color: khaki;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
+
+.bold-blue {
+    color: blue;
+    font-weight: bold;
+}
